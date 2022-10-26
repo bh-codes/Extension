@@ -96,19 +96,19 @@ textarea {
 
 input {
   width: 100%;
-  padding: 0 10px;
+  padding: 10px;
   box-sizing: border-box;
   height: 40px;
-
+  border: 1px solid #5f9341 ;
 }
 
 button {
   background-color: #5f9341;
   color: white;
-  margin-top: 10px;
-  padding: 10px 25px;
+  margin-top: 4px;
+  padding: 10px 20px;
   border: none;
-}
+  font-weight: bold;
 
 
 
